@@ -4,10 +4,6 @@
 
 <h1 align="center">🎭 Hi there, I'm Facundo Silva 🎧</h1>
 
-<p align='center'>
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=Computer+Science+Student;Cooking+Projects;Studying+at+UNLP;Scroll+down">
-</p>
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
