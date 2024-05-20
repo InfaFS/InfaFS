@@ -8,11 +8,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=Computer+Science+Student;Cooking+Projects;Studying+at+UNLP;Scroll+down">
 </p>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Some Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
+
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
