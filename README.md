@@ -46,7 +46,7 @@
 <p align="center">
   <h1>Thanks for watching!</h1>
     <img align="center" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2c2NGhtenR3MWs2aDFkeWo5NHhtZzl4dWhoMzl5ZnV0NWFzbmlqNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hm8YCJd7ORdC70I6S3/giphy.gif" />
-
+</p>
 <br>
 <br>
 
