@@ -45,8 +45,7 @@
 
 <p align="center">
   <h1>Thanks for watching!</h1>
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/hm8YCJd7ORdC70I6S3" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/oliviarodrigo-olivia-rodrigo-hm8YCJd7ORdC70I6S3">via GIPHY</a></p>
-</p>
+    <img align="center" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2c2NGhtenR3MWs2aDFkeWo5NHhtZzl4dWhoMzl5ZnV0NWFzbmlqNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hm8YCJd7ORdC70I6S3/giphy.gif" />
 
 <br>
 <br>
