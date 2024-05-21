@@ -26,9 +26,7 @@
 <a href="https://github.com/InfaFS/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfaFS&theme=algolia" alt="Top Langs"/>
 </a>
-<a href="https://github.com/WinterWolf97/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=WinterWolf97&theme=algolia" alt="InfaFS Wakatime stats"/>
-</a>
+
 </div>
 
 <br>
