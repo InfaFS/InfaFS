@@ -18,7 +18,7 @@
 
 <br>
 
-### ⚙️ <b>GitHub analitics</b>
+## ⚙️ <b>GitHub analitics</b>
 <br>
 
 <div align="center">
