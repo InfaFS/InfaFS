@@ -18,7 +18,9 @@
 
 <p align="center">
 <a href="https://github.com/InfaFS">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=InfaFS&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/InfaFS">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=InfaFS&langs_count=20&show_icons=true&locale=en&layout=compact&line_height=20&theme=algolia" width="375" alt="InfaFS"/>
+  </a>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=InfaFS&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
