@@ -42,6 +42,12 @@
         <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=InfaFS&repo=OhMyBoat--App&theme=dark" />
     </a>  
 </div>
+
+<p align="center">
+  <h1>Thanks for watching!</h1>
+  <iframe src="https://giphy.com/embed/hm8YCJd7ORdC70I6S3" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/oliviarodrigo-olivia-rodrigo-hm8YCJd7ORdC70I6S3">via GIPHY</a></p>
+</p>
+
 <br>
 <br>
 
