@@ -17,14 +17,17 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <div align="center">
-
+  
+<p>
 <a href="https://github.com/InfaFS/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=InfaFS&theme=algolia" alt="InfaFS GitHub stats"/>
 </a>
+</p>
+<p>
 <a href="https://github.com/InfaFS/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfaFS&theme=algolia" alt="Top Langs"/>
 </a>
-
+</p>
 </div>
 
 <br>
