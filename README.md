@@ -36,17 +36,8 @@
 
 </div>
 
-<h2 align="center">Projects</h2>
-<div align="center">
-    <a href="https://github.com/InfaFS/OhMyBoat--App">
-        <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=InfaFS&repo=OhMyBoat--App&theme=dark" />
-    </a>  
-</div>
 
-<div align="center">
-    <h1>More on the way!</h1>
-    <img align="center" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2c2NGhtenR3MWs2aDFkeWo5NHhtZzl4dWhoMzl5ZnV0NWFzbmlqNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hm8YCJd7ORdC70I6S3/giphy.gif" />
-</div>
+
 <br>
 <br>
 
